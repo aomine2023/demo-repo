@@ -5,3 +5,4 @@ Some text
 #Local Development
 
 open index.html in your browser
+Hey there!
